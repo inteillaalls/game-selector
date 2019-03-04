@@ -1,8 +1,8 @@
 const int ledCount = 9;
 const int inputCount = 6;
-const int buttonNext = 3;
+const int buttonNext = 2;
 const int buttonPrev = 4;
-const int buttonRandom = 2;
+const int buttonRandom = 3;
 const int remoteButtonNext = 14;
 const int remoteButtonPrev = 15;
 const int remoteButtonRandom = 16;
